@@ -1,6 +1,6 @@
 # The introduction_with_language Method
 
-def introduction(name = "Josh")
+def introduction(name)
 
 puts ("Hi, my name is #{name}.").to_stdout
 
